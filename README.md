@@ -119,6 +119,6 @@ Mac                                    ██████░░░░░░░�
 <div align="center">
     Made with ❤️ by <a href="https://siddharthshekhar.onrender.com/" target="_blank">Siddharth Shekhar</a>
 </div>
-
+<br>
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
