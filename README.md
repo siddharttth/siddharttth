@@ -77,7 +77,7 @@ Mac                                    ██████░░░░░░░�
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharttth&repo=Portfolio-Website&theme=transparent" />
     	</a>
 	    <a href="https://github.com/siddharttth/realtime-multiplayer-chess">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharttth&repo=library&theme=transparent" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharttth&repo=realtime-multiplayer-chess&theme=transparent" />
     	</a>
 </div>
 
