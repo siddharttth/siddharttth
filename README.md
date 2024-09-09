@@ -22,7 +22,7 @@ new Person({
 
 ```cmd
 C:\Siddharttth> node index.js
-Hi, my name is Siddharth, I'm a 3rd Year B.Tech student (CSE).
+Hi, my name is Siddharth, I'm a 4th Year B.Tech student (CSE).
 ```
 
 <div align="center">
