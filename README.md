@@ -15,7 +15,7 @@ new Person({
     name   : 'Siddharth Shekhar',
     title  : 'To Be a Full Stack Developer',
     email  : 'siddharth.shekharr@gmail.com',
-    website: 'https://siddharthshekhar.onrender.com/',
+    website: 'https://siddharth.fun/',
     happy  : !!!false,
 }).sayHello();
 ```
@@ -56,7 +56,7 @@ VS Code                                █████████████�
 
 💻 Operating System: 
 Windows                                ███████████████████░░░░░░   85.00 % 
-Mac                                    ██████░░░░░░░░░░░░░░░░░░░   15.00 % 
+Mac                                    ████████████████████████░   98.00 % 
 ```
 
 
